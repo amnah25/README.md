@@ -1,5 +1,5 @@
 # README.md
-## 🚀 Skills  
+## 👩🏻‍🏫 Skills  
 
 ### **Programming Languages**
 <p align="left">
